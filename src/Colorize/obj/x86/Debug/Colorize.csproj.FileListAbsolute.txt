@@ -1,0 +1,9 @@
+C:\Users\Himanshu\documents\visual studio 2010\Projects\Colorize\Colorize\bin\Debug\Colorize.exe
+C:\Users\Himanshu\documents\visual studio 2010\Projects\Colorize\Colorize\bin\Debug\Colorize.pdb
+C:\Users\Himanshu\documents\visual studio 2010\Projects\Colorize\Colorize\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Himanshu\documents\visual studio 2010\Projects\Colorize\Colorize\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Himanshu\documents\visual studio 2010\Projects\Colorize\Colorize\obj\x86\Debug\Colorize.csproj.GenerateResource.Cache
+C:\Users\Himanshu\documents\visual studio 2010\Projects\Colorize\Colorize\obj\x86\Debug\Colorize.exe
+C:\Users\Himanshu\documents\visual studio 2010\Projects\Colorize\Colorize\obj\x86\Debug\Colorize.pdb
+E:\suyash\vs\Colorize\Colorize\obj\x86\Debug\Colorize.exe
+E:\suyash\vs\Colorize\Colorize\obj\x86\Debug\Colorize.pdb

@@ -1,0 +1,7 @@
+E:\suyash\vs\Colorize\Colorize\bin\Release\Colorize.exe
+E:\suyash\vs\Colorize\Colorize\bin\Release\Colorize.pdb
+E:\suyash\vs\Colorize\Colorize\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+E:\suyash\vs\Colorize\Colorize\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\suyash\vs\Colorize\Colorize\obj\x86\Release\Colorize.csproj.GenerateResource.Cache
+E:\suyash\vs\Colorize\Colorize\obj\x86\Release\Colorize.exe
+E:\suyash\vs\Colorize\Colorize\obj\x86\Release\Colorize.pdb
